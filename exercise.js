@@ -98,8 +98,37 @@
 // ====================================================================================================================================
 
 // ====================================================================================================================================
+// Soal No. 4
+// Write a function to remove all odd numbers in an array and return a new array that contains even 
+// numbers only
+// Example : [1,2,3,4,5,6,7,8,9,10] → [2,4,6,8,10]
 
+// function filterEvenNumbers(arr) {
+//   const evenNumbers = [];
+//   for (let i = 1; i <= arr.length; i++) {
+//     if (arr[i] % 2 === 0) {
+//       evenNumbers.push(arr[i]);
+//     }
+//   }
+//   return evenNumbers;
+// }
+// const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// const evenNumbersArray = filterEvenNumbers(arr);
+
+// console.log(evenNumbersArray);
 // ====================================================================================================================================
 
 // ====================================================================================================================================
+// Soal No. 5
+// Write a function to split a string and convert it into an array of words
+// Example : “Hello World” → [“Hello”, “World”]
+
+// function myFunctionArrSplit(str) {
+//     const words = str.split(' ')
+//     return words;
+// }
+// const str = "Hello World";
+// const wordsArr = myFunctionArrSplit(str);
+
+// console.log(wordsArr);
 // ====================================================================================================================================

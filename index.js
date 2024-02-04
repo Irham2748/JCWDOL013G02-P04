@@ -99,11 +99,11 @@
 // console.log(greetingIrham());
 
 // Curriyng 1
-function multiplier (factor, number) {
-    return factor * number;
-}
-console.log(multiplier(9, 5));
-console.log(multiplier(6, 5));
+// function multiplier (factor, number) {
+//     return factor * number;
+// }
+// console.log(multiplier(9, 5));
+// console.log(multiplier(6, 5));
 
 // // Curriyng 2
 // function multiplier (factor) {
